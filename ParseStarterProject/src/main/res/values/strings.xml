@@ -19,4 +19,5 @@
     <string name="HintTxtEmail">Digite seu email</string>
     <string name="HintTxtPassword">Digite sua senha</string>
     <string name="btnCadastrar">Cadastrar</string>
+    <string name="lblLogin">Já tem conta? faça o login!</string>
 </resources>
