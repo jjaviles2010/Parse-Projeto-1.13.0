@@ -13,7 +13,9 @@
     <string name="app_name">Instagram</string>
 
     <string name="hello_world">Hello World!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_sair">Sair</string>
+    <string name="action_compartilhar">Compartilhar</string>
     <string name="imgAddUser">Adicionar usuario</string>
     <string name="HintTxtUser">Digite seu usuário</string>
     <string name="HintTxtEmail">Digite seu email</string>

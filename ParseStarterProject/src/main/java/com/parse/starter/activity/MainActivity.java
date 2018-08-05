@@ -8,26 +8,39 @@
  */
 package com.parse.starter.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
+import android.widget.Toolbar;
 
 import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
 import com.parse.starter.R;
 
+import java.util.zip.Inflater;
+
 
 public class MainActivity extends AppCompatActivity {
 
-  @Override
-  protected void onCreate(Bundle savedInstanceState) {
-    super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_main);
+    private android.support.v7.widget.Toolbar toolbar_princ;
 
-    /********************************/
-    /*Cadastro de Usuarios
-     */
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        toolbar_princ = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar_principal);
+        toolbar_princ.setLogo(R.drawable.instagramlogo);
+        setSupportActionBar(toolbar_princ);
+
+        /********************************/
+        /*Cadastro de Usuarios
+         */
    /* ParseUser usuario = new ParseUser();
     usuario.setUsername("josejavier");
     usuario.setPassword("12345");
@@ -46,23 +59,23 @@ public class MainActivity extends AppCompatActivity {
       }
     });*/
 
-      /**************
-       * Verificar usuario logado
-       */
+        /**************
+         * Verificar usuario logado
+         */
 
-      if(ParseUser.getCurrentUser() != null){//logado
+      /*if(ParseUser.getCurrentUser() != null){//logado
         Log.i("LoginUsuario","Usuario esta logado");
       }else{//Nao esta logado
           Log.i("LoginUsuario","Usuario nao esta logado");
-      }
+      }*/
 
-      //Deslogar Usuario
-      //ParseUser.logOut();
+        //Deslogar Usuario
+        //ParseUser.logOut();
 
-      /************
-       * Fazer o login do usuario
-       */
-        ParseUser.logInInBackground("josejavier", "12345", new LogInCallback() {
+        /************
+         * Fazer o login do usuario
+         */
+        /*ParseUser.logInInBackground("josejavier", "12345", new LogInCallback() {
             @Override
             public void done(ParseUser user, ParseException e) {
                 if(e == null){//deu certo
@@ -71,10 +84,10 @@ public class MainActivity extends AppCompatActivity {
                     Log.i("verificaLoginUsuario","Erro ao fazer Login do usuario. "+ e.getMessage());
                 }
             }
-        });
+        });*/
 
 
-      //ParseAnalytics.trackAppOpenedInBackground(getIntent());
+        //ParseAnalytics.trackAppOpenedInBackground(getIntent());
 
       /*ParseObject pontuacao = new ParseObject("Pontuacao");
       pontuacao.put("nome","Leticia");
@@ -127,6 +140,35 @@ public class MainActivity extends AppCompatActivity {
               }
           }
       });*/
-  }
+    }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater menuInflater = getMenuInflater();
+        menuInflater.inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+
+        switch (item.getItemId()) {
+            case R.id.action_sair:
+                deslogarUsuario();
+            case R.id.action_settings:
+                return true;
+            case R.id.action_compartilhar:
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+
+    }
+
+    private void deslogarUsuario(){
+        ParseUser.logOut();
+        Intent intent = new Intent(this,LoginActivity.class);
+        startActivity(intent);
+        finish();
+    }
 }

@@ -11,7 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3f6bde-16c8-4603-a495-9f5d7fc00d09" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/util/ParseErros.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-hdpi/ic_action_camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-hdpi/ic_camera_alt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-mdpi/ic_action_camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-mdpi/ic_camera_alt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-xhdpi/ic_action_camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-xhdpi/ic_camera_alt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-xxhdpi/ic_action_camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-xxhdpi/ic_camera_alt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-xxxhdpi/ic_action_camera.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable-xxxhdpi/ic_camera_alt.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable/instagramlogo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/toolbar.xml" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
@@ -29,8 +41,10 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/blame/res/debug/single/debug.json" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/build-info/debug/build-info.xml" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$integer.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$layout.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$layout.class" />
@@ -40,11 +54,15 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$style.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$style.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$styleable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/CadastroActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/CadastroActivity.class" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/LoginActivity$1.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/LoginActivity$1.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/LoginActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/LoginActivity.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/MainActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/MainActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/classes/debug/com/parse/starter/activity/MainActivity.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$integer.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$layout.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$layout.class" />
@@ -54,58 +72,127 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$style.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$style.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$styleable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/CadastroActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/CadastroActivity.class" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/LoginActivity$1.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/LoginActivity$1.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/LoginActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/LoginActivity.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/MainActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/MainActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental-verifier/debug/com/parse/starter/activity/MainActivity.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/KN0GBjbgdAqzAZp3LHFkUycXyzc=" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/KN0GBjbgdAqzAZp3LHFkUycXyzc=" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/KN0GBjbgdAqzAZp3LHFkUycXyzc=" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/KN0GBjbgdAqzAZp3LHFkUycXyzc=" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.crc" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.crc" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifest-checker/debug/manifest.xml" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_cadastro.xml.flat" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_cadastro.xml.flat" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/menu_menu_main.xml.flat" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/menu_menu_main.xml.flat" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/merged/debug/values_values.arsc.flat" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/symbols/debug/R.txt" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$id.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$id.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$string.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$string.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/CadastroActivity.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/CadastroActivity.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity$1.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity$1.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/android/support/constraint/R$id.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/android/support/constraint/R$id.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$id.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$id.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$integer.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$integer.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$layout.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$layout.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$menu.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$menu.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$mipmap.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$mipmap.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$string.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$string.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$style.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$style.dex" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$styleable.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$styleable.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/10.jar" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/11.jar" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/12.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/15/com/android/tools/ir/dummy/slice_0.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/16/com/android/tools/ir/dummy/slice_1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v4/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$anim.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$attr.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$bool.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$color.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$dimen.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$drawable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$id.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$integer.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$layout.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$string.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$style.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R$styleable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/android/support/v7/appcompat/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/17/com/android/tools/ir/dummy/slice_2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/18/com/android/tools/ir/dummy/slice_3.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/19/com/android/tools/ir/dummy/slice_4.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/20/com/android/tools/ir/dummy/slice_5.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/android/tools/ir/dummy/slice_6.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/CadastroActivity$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/CadastroActivity$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/CadastroActivity$3.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/CadastroActivity.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity$3.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/LoginActivity.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/MainActivity$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/21/com/parse/starter/activity/MainActivity.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/22/com/android/tools/ir/dummy/slice_7.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/22/com/parse/starter/util/ParseErros.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/23/com/android/tools/ir/dummy/slice_8.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/android/support/constraint/R$attr.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/android/support/constraint/R$id.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/android/support/constraint/R$styleable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/android/support/constraint/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/android/tools/ir/dummy/slice_9.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/BuildConfig.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$anim.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$attr.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$bool.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$color.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$dimen.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$drawable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$id.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$integer.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$layout.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$menu.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$mipmap.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$string.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$style.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R$styleable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/24/com/parse/starter/StarterApplication.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/9.jar" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/11/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/12/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/12/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/13/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/13/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/14/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/14/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/15/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/5/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/8/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$integer.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$layout.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$layout.class" />
@@ -115,14 +202,23 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$style.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$style.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$styleable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/R$styleable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/CadastroActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/CadastroActivity.class" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/LoginActivity$1.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/LoginActivity$1.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/LoginActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/LoginActivity.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/MainActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/MainActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/0/com/parse/starter/activity/MainActivity.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRun/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/buildId.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/2/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/buildId.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/buildId.txt" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/CadastroActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/CadastroActivity.class" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/LoginActivity$1.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/LoginActivity$1.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/LoginActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/LoginActivity.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/MainActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/MainActivity.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/6/com/parse/starter/activity/MainActivity.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/7/buildId.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$drawable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$drawable.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$id.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$id.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$integer.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$integer.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$layout.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$layout.class" />
@@ -131,13 +227,15 @@
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$string.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$string.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$style.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$style.class" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$styleable.class" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/9/com/parse/starter/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/ParseStarterProject/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/ParseStarterProject/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/CadastroActivity.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/CadastroActivity.java" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/LoginActivity.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/LoginActivity.java" />
-      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_cadastro.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_cadastro.xml" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/outputs/apk/debug/ParseStarterProject-debug.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/build/outputs/apk/debug/output.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/MainActivity.java" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/MainActivity.java" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/menu_main.xml" />
       <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/ParseStarterProject/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/ParseStarterProject/src/main/res/values/styles.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -173,29 +271,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="37" column="59" lean-forward="false" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+            <state relative-caret-position="291">
+              <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
+          <provider editor-type-id="android-designer2">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="170" column="28" lean-forward="false" selection-start-line="170" selection-start-column="28" selection-end-line="170" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/menu_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <element signature="e#776#797#0" expanded="true" />
+                <element signature="e#942#971#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -212,14 +345,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+            <state relative-caret-position="252">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding>
                 <element signature="e#997#1290#0" expanded="true" />
                 <element signature="e#1289#1290#0" expanded="true" />
+                <element signature="e#1405#1648#0" expanded="true" />
+                <element signature="e#1647#1648#0" expanded="true" />
                 <element signature="e#2153#2602#0" expanded="true" />
                 <element signature="e#2601#2602#0" expanded="true" />
               </folding>
@@ -227,33 +362,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CadastroActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/CadastroActivity.java">
+      <file leaf-file-name="toolbar.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/toolbar.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-              <folding>
-                <element signature="e#1081#1234#0" expanded="true" />
-                <element signature="e#1233#1234#0" expanded="true" />
-                <element signature="e#1277#1429#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1784#2322#0" expanded="true" />
-                <element signature="e#2321#2322#0" expanded="true" />
-                <element signature="e#2369#2370#0" expanded="true" />
-                <element signature="e#2393#2394#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParseErros.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/util/ParseErros.java">
+      <file leaf-file-name="CadastroActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/CadastroActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="441">
+              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding>
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#2369#2370#0" expanded="true" />
+                <element signature="e#2393#2394#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -265,6 +394,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -2301,13 +2431,18 @@
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_cadastro.xml" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/util/ParseErros.java" />
-        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/CadastroActivity.java" />
         <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/toolbar.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/menu_main.xml" />
+        <option value="$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/MainActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-83" />
     <option name="y" value="197" />
     <option name="width" value="1938" />
@@ -2328,7 +2463,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2363,7 +2497,13 @@
               <item name="Parse-Projeto-1.13.0" type="1abcf292:AndroidViewProjectNode" />
               <item name="ParseStarterProject" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="Parse-Projeto-1.13.0" type="1abcf292:AndroidViewProjectNode" />
+              <item name="ParseStarterProject" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="Parse-Projeto-1.13.0" type="1abcf292:AndroidViewProjectNode" />
@@ -2373,9 +2513,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2383,10 +2524,19 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="Jose_Device" />
+    <property name="asset" value="rO0ABXNyADxkZS5tcHJlbmdlbWFubi5pbnRlbGxpai5wbHVnaW4uYW5kcm9pZGljb25zLm1vZGVsLkltYWdlQXNzZXQl990GqIfF7gIABkwACGNhdGVnb3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAGY29sb3JzdAAQTGphdmEvdXRpbC9MaXN0O0wABG5hbWVxAH4AAUwABHBhY2txAH4AAUwAC3Jlc29sdXRpb25zcQB+AAJMAAVzaXplc3EAfgACeHB0AANhbGxzcgATamF2YS51dGlsLkFycmF5TGlzdHiB0h2Zx2GdAwABSQAEc2l6ZXhwAAAADncEAAAADnQABWJsYWNrdAAJYmx1ZV9kYXJrdAAKYmx1ZV9saWdodHQACmdyZWVuX2Rhcmt0AAtncmVlbl9saWdodHQACWhvbG9fZGFya3QACmhvbG9fbGlnaHR0AAtwdXJwbGVfZGFya3QADHB1cnBsZV9saWdodHQACHJlZF9kYXJrdAAJcmVkX2xpZ2h0dAAFd2hpdGV0AAt5ZWxsb3dfZGFya3QADHllbGxvd19saWdodHh0ABBpY19hY3Rpb25fY2FtZXJhdAANYW5kcm9pZF9pY29uc3NxAH4ABQAAAAV3BAAAAAV+cgA8ZGUubXByZW5nZW1hbm4uaW50ZWxsaWoucGx1Z2luLmFuZHJvaWRpY29ucy5tb2RlbC5SZXNvbHV0aW9uAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAESERQSX5xAH4AGHQABExEUEl+cQB+ABh0AARNRFBJfnEAfgAYdAAFWEhEUEl+cQB+ABh0AAZYWEhEUEl4c3EAfgAFAAAAAXcEAAAAAXQABDE4ZHB4" />
+    <property name="color" value="black" />
+    <property name="size" value="18dp" />
+    <property name="resolutions" value="XHDPI&#10;XXXHDPI&#10;MDPI&#10;XXHDPI&#10;HDPI" />
+    <property name="resourcesRoot" value="file://C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\res" />
+    <property name="android.profiler.active" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
       <recent name="com.parse.starter.activity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2569,24 +2719,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5269953" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2309496" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23004694" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2599,7 +2750,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2657,11 +2807,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/CadastroActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#2369#2370#0" expanded="true" />
+            <element signature="e#2393#2394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#997#1290#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1405#1648#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
+            <element signature="e#2153#2602#0" expanded="true" />
+            <element signature="e#2601#2602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/util/ParseErros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#369#370#0" expanded="false" />
+            <element signature="e#413#414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_cadastro.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="37" column="59" lean-forward="false" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2457">
           <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2694,6 +2924,8 @@
           <folding>
             <element signature="e#997#1290#0" expanded="true" />
             <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1405#1648#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
             <element signature="e#2153#2602#0" expanded="true" />
             <element signature="e#2601#2602#0" expanded="true" />
           </folding>
@@ -2705,12 +2937,6 @@
         <state relative-caret-position="315">
           <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding>
-            <element signature="e#1081#1234#0" expanded="true" />
-            <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1277#1429#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1784#2322#0" expanded="true" />
-            <element signature="e#2321#2322#0" expanded="true" />
             <element signature="e#2369#2370#0" expanded="true" />
             <element signature="e#2393#2394#0" expanded="true" />
           </folding>
@@ -2727,12 +2953,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1081#1234#0" expanded="true" />
-            <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1277#1429#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1784#2322#0" expanded="true" />
-            <element signature="e#2321#2322#0" expanded="true" />
             <element signature="e#2369#2370#0" expanded="true" />
             <element signature="e#2393#2394#0" expanded="true" />
           </folding>
@@ -2755,14 +2975,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2163">
-          <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="777">
@@ -2776,24 +2988,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/util/ParseErros.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="294">
           <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="false" />
+            <element signature="e#413#414#0" expanded="false" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_cadastro.xml">
@@ -2809,15 +3010,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/CadastroActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
+        <state relative-caret-position="441">
           <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
-            <element signature="e#1081#1234#0" expanded="true" />
-            <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1277#1429#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1784#2322#0" expanded="true" />
-            <element signature="e#2321#2322#0" expanded="true" />
             <element signature="e#2369#2370#0" expanded="true" />
             <element signature="e#2393#2394#0" expanded="true" />
           </folding>
@@ -2839,19 +3034,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/drawable/instagramlogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout-v21/toolbar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        <state relative-caret-position="252">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="e#997#1290#0" expanded="true" />
             <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1405#1648#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
             <element signature="e#2153#2602#0" expanded="true" />
             <element signature="e#2601#2602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/toolbar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/res/menu/menu_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="e#776#797#0" expanded="true" />
+            <element signature="e#942#971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseStarterProject/src/main/java/com/parse/starter/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="170" column="28" lean-forward="false" selection-start-line="170" selection-start-column="28" selection-end-line="170" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
