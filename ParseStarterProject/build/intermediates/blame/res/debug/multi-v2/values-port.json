@@ -4,15 +4,8 @@
             "outputFile": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\9374a7ca3942a14ed673619b69ad76c6\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\values-port\\values-port.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "291",
-                        "endColumns": "55",
-                        "endOffsets": "342"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",

@@ -4,22 +4,14 @@
             "outputFile": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\9374a7ca3942a14ed673619b69ad76c6\\res\\values-hdpi\\values-hdpi.xml",
+                    "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "297",
-                        "endLines": "8",
-                        "endColumns": "13",
-                        "endOffsets": "567"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endLines": "6",
                         "endColumns": "13",
-                        "endOffsets": "325"
+                        "endOffsets": "327"
                     }
                 }
             ]

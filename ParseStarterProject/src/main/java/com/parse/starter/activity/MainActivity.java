@@ -10,6 +10,8 @@ package com.parse.starter.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
@@ -21,6 +23,8 @@ import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
 import com.parse.starter.R;
+import com.parse.starter.adapter.TabsAdapter;
+import com.parse.starter.util.SlidingTabLayout;
 
 import java.util.zip.Inflater;
 
@@ -28,15 +32,33 @@ import java.util.zip.Inflater;
 public class MainActivity extends AppCompatActivity {
 
     private android.support.v7.widget.Toolbar toolbar_princ;
+    private ViewPager viewPager;
+    private SlidingTabLayout tabLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Configurar toolbar
         toolbar_princ = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar_principal);
         toolbar_princ.setLogo(R.drawable.instagramlogo);
         setSupportActionBar(toolbar_princ);
+
+        //Configurar Tabs
+        viewPager = (ViewPager)findViewById(R.id.view_pager_main);
+        tabLayout = (SlidingTabLayout)findViewById(R.id.sliding_tab_main);
+
+        //Configurar adapter
+        TabsAdapter tabsAdapter = new TabsAdapter( getSupportFragmentManager(),this );
+        viewPager.setAdapter( tabsAdapter );
+
+
+        //Configurando Layout Custom
+       tabLayout.setCustomTabView(R.layout.tab_layout, R.id.text_tab);
+         tabLayout.setDistributeEvenly(true);
+        tabLayout.setSelectedIndicatorColors(ContextCompat.getColor(this,R.color.cinzaEscuro));
+        tabLayout.setViewPager(viewPager);
 
         /********************************/
         /*Cadastro de Usuarios
