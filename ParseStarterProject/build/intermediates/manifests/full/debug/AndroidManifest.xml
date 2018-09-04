@@ -18,6 +18,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name="com.parse.starter.StarterApplication"
@@ -45,6 +46,11 @@
         </activity>
         <activity android:name="com.parse.starter.activity.MainActivity" />
         <activity android:name="com.parse.starter.activity.CadastroActivity" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.parse.starter.com.squareup.picasso"
+            android:exported="false" />
     </application>
 
 </manifest>

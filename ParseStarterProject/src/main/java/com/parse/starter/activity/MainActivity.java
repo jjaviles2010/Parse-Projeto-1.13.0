@@ -9,7 +9,10 @@
 package com.parse.starter.activity;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
@@ -17,15 +20,24 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.widget.Toast;
 import android.widget.Toolbar;
 
 import com.parse.LogInCallback;
 import com.parse.ParseException;
+import com.parse.ParseFile;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
+import com.parse.SaveCallback;
 import com.parse.starter.R;
 import com.parse.starter.adapter.TabsAdapter;
 import com.parse.starter.util.SlidingTabLayout;
 
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
 import java.util.zip.Inflater;
 
 
@@ -180,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_settings:
                 return true;
             case R.id.action_compartilhar:
-                return true;
+                compartilharFoto();
             default:
                 return super.onOptionsItemSelected(item);
         }
@@ -192,5 +204,62 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this,LoginActivity.class);
         startActivity(intent);
         finish();
+    }
+
+    private void compartilharFoto(){
+
+        Intent intent = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+        startActivityForResult(intent,1);
+
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        //Testar processo de retorno dos dados
+        if(requestCode == 1 && resultCode == RESULT_OK && data != null){
+
+            //recupera o local do recurso
+            Uri localImagemSelecionada = data.getData();
+
+            //recupera a imagem do local que foi selecionada
+            try {
+                Bitmap imagem = MediaStore.Images.Media.getBitmap(getContentResolver(),localImagemSelecionada);
+
+                //comprimir no formate PNG
+                ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                imagem.compress(Bitmap.CompressFormat.PNG, 75, stream);
+
+                //Cria Array de Bytes da imagem
+                byte[] arrayBytesImage = stream.toByteArray();
+
+                //Criar arquivo no formato prorio do parse
+                Locale locale = new Locale("pt-Br");
+                SimpleDateFormat simpleDateFormat = new SimpleDateFormat("aaaammddhhmmss",locale);
+                String nomeImagem = simpleDateFormat.format(new Date());
+                ParseFile arquivoParse = new ParseFile(nomeImagem + "imagem.png", arrayBytesImage);
+
+                //Monta objeto para salvar no parse
+                ParseObject parseObject = new ParseObject("Imagem");
+                parseObject.put("username",ParseUser.getCurrentUser().getUsername());
+                parseObject.put("imagem", arquivoParse);
+
+                parseObject.saveInBackground(new SaveCallback() {
+                    @Override
+                    public void done(ParseException e) {
+                        if(e == null){//sucesso ao salvar imagem
+                            Toast.makeText(MainActivity.this,"Imagem salva com sucesso!",Toast.LENGTH_LONG).show();
+                        }else {//erro ao salvar imagem
+                            Toast.makeText(MainActivity.this,"Erro ao salvar imagem, tente novamente!",Toast.LENGTH_LONG).show();
+                        }
+                    }
+                });
+
+
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
     }
 }
