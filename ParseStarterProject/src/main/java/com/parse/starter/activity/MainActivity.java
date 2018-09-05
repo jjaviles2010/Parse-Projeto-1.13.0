@@ -31,6 +31,7 @@ import com.parse.ParseUser;
 import com.parse.SaveCallback;
 import com.parse.starter.R;
 import com.parse.starter.adapter.TabsAdapter;
+import com.parse.starter.fragments.HomeFragment;
 import com.parse.starter.util.SlidingTabLayout;
 
 import java.io.ByteArrayOutputStream;
@@ -250,6 +251,13 @@ public class MainActivity extends AppCompatActivity {
                     public void done(ParseException e) {
                         if(e == null){//sucesso ao salvar imagem
                             Toast.makeText(MainActivity.this,"Imagem salva com sucesso!",Toast.LENGTH_LONG).show();
+
+                            //Actualiza a lista de imagens do HomoFragment
+                            TabsAdapter adapterNovo = (TabsAdapter) viewPager.getAdapter();
+                            HomeFragment homeFragmentNovo = (HomeFragment)adapterNovo.getFragment( 0 );
+                            homeFragmentNovo.atualizaPostagens();
+
+
                         }else {//erro ao salvar imagem
                             Toast.makeText(MainActivity.this,"Erro ao salvar imagem, tente novamente!",Toast.LENGTH_LONG).show();
                         }

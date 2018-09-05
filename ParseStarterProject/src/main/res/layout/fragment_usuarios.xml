@@ -6,10 +6,11 @@
     tools:context=".fragments.UsuariosFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+
+    <ListView
+        android:id="@+id/lstViewUsers"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="USUARIOS"
-        android:textColor="@android:color/black"/>
-
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"/>
 </FrameLayout>
