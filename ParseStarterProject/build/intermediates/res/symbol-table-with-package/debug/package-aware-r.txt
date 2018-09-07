@@ -1095,7 +1095,8 @@ int layout support_simple_spinner_dropdown_item 0x7f0a0044
 int layout tab_layout 0x7f0a0045
 int layout toolbar 0x7f0a0046
 int menu menu_main 0x7f0b0000
-int mipmap ic_launcher 0x7f0c0000
+int mipmap ic_instagram 0x7f0c0000
+int mipmap ic_launcher 0x7f0c0001
 int string HintTxtEmail 0x7f0d0000
 int string HintTxtPassword 0x7f0d0001
 int string HintTxtUser 0x7f0d0002
