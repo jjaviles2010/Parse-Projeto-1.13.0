@@ -1,4 +1,4 @@
-#Sun Sep 02 22:38:56 BRT 2018
-base.0=C\:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\44
+#Thu Sep 06 21:54:51 BRT 2018
+base.0=C\:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.0=classes.dex
 renamed.0=classes.dex

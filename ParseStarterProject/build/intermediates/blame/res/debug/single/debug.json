@@ -8,12 +8,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -24,12 +24,16 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_keyboard_arrow_left.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\ic_keyboard_arrow_left.png"
+    },
+    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-v21\\avd_show_password.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -56,12 +60,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\anim\\design_snackbar_out.xml"
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
@@ -156,12 +160,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -204,12 +208,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_lista_usuarios.xml.flat",
@@ -221,11 +225,11 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable\\design_snackbar_background.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
@@ -240,12 +244,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_people.png.flat",
-        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\ic_people.png"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_people.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\ic_people.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
@@ -268,12 +272,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -285,7 +289,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable\\navigation_empty_icon.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -353,7 +357,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_bottom_navigation_item.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -392,12 +396,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
@@ -452,12 +456,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_camera.png.flat",
-        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\ic_action_camera.png"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\ic_action_camera.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -477,7 +481,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
@@ -485,7 +489,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\color-v23\\design_tint_password_toggle.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -505,7 +509,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed_usuarios.xml.flat",
@@ -520,12 +524,12 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
         "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -545,7 +549,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_navigation_item.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
@@ -677,7 +681,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
@@ -689,7 +693,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\anim\\design_snackbar_in.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
@@ -721,7 +725,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -730,6 +734,10 @@
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_keyboard_arrow_left.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\ic_keyboard_arrow_left.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -749,7 +757,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastro.xml.flat",
@@ -757,7 +765,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_menu_item_action_area.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -789,7 +797,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\color\\design_tint_password_toggle.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -852,6 +860,10 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_left.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\ic_keyboard_arrow_left.png"
+    },
+    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
@@ -869,7 +881,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_navigation_item_subheader.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instagramlogo.png.flat",
@@ -945,7 +957,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
@@ -962,6 +974,10 @@
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_left.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -985,7 +1001,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
@@ -1013,7 +1029,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1041,11 +1057,11 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_navigation_menu_item.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_layout_snackbar.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1073,7 +1089,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1109,7 +1125,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1129,7 +1145,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_navigation_item_separator.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
@@ -1141,7 +1157,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_layout_snackbar_include.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
@@ -1181,7 +1197,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-v21\\design_password_eye.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1193,7 +1209,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -1245,7 +1261,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
@@ -1337,11 +1353,11 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_navigation_menu.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -1405,7 +1421,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1501,7 +1517,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_navigation_item_header.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1565,7 +1581,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_usuario.png.flat",
@@ -1581,7 +1597,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1713,7 +1729,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_text_input_password_icon.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
@@ -1737,7 +1753,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\color\\design_error.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\color\\design_error.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
@@ -1781,7 +1797,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_layout_tab_text.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1805,7 +1821,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable-v21\\avd_hide_password.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1817,7 +1833,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\layout\\design_layout_tab_icon.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1833,7 +1849,7 @@
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
-        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9044425d49cc3f45522cdd406a062d89\\res\\drawable\\design_fab_background.xml"
+        "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
@@ -1850,5 +1866,9 @@
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard_arrow_left.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_left.png"
     }
 ]

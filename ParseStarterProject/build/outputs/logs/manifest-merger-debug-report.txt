@@ -4,21 +4,21 @@ ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterPr
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
-MERGED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d7289046a34c41c1dd6efefcfab2cb4f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\308dbee9c802adbb301635c6731019af\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e9fc4433c095f0de124f79c3774acee5\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\c257f6ee824a8c9daed8b0c622eb46ec\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b107718f6881267fc7ed181c35b1b7a2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1291e8eed0c896c169b30de56410af92\AndroidManifest.xml:17:1-22:12
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ba7cf4185572374b710f84b1f59c7d30\AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f8cc57d6b25f0766eb84b1261856f8f0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\aba6226c08672ff1161301a360596363\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eb7ce6ae3a814fc56ea1b0a0a28b9854\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9993cc8dbce45d886ebfd621a174ed79\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\515c704cf5a009fa3c1e27a2e5a62f5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8fd2d51d54f07b69f70eba09ea22dd3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\63ea316e5771b621a8268222d272db87\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\430f79559492a3dfe4e61dd1bc694c40\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bc1d3931457450f7c505b3c9a14a8c40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eb7ce6ae3a814fc56ea1b0a0a28b9854\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\78016e1d101ffd72d715a5a95810ab44\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\67aba51035179e33c4f6b0a289c6c2b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f8cc57d6b25f0766eb84b1261856f8f0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\94d4ba286890c2346c1030a3e4957f42\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3ae64bb6ba84c0f4ab15c3c57d094ff9\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b604f0e1ae5d511c9a644ce6a624a6ba\AndroidManifest.xml:17:1-22:12
@@ -54,16 +54,10 @@ ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterPr
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 application
 ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:16:5-49:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e9fc4433c095f0de124f79c3774acee5\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e9fc4433c095f0de124f79c3774acee5\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:transition:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\c257f6ee824a8c9daed8b0c622eb46ec\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\c257f6ee824a8c9daed8b0c622eb46ec\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b107718f6881267fc7ed181c35b1b7a2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b107718f6881267fc7ed181c35b1b7a2\AndroidManifest.xml:9:5-20
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ba7cf4185572374b710f84b1f59c7d30\AndroidManifest.xml:7:5-12:19
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ba7cf4185572374b710f84b1f59c7d30\AndroidManifest.xml:7:5-12:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\aba6226c08672ff1161301a360596363\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\aba6226c08672ff1161301a360596363\AndroidManifest.xml:22:5-26:19
 	android:label
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
 	android:icon
@@ -130,36 +124,36 @@ uses-sdk
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d7289046a34c41c1dd6efefcfab2cb4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d7289046a34c41c1dd6efefcfab2cb4f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\308dbee9c802adbb301635c6731019af\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\308dbee9c802adbb301635c6731019af\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e9fc4433c095f0de124f79c3774acee5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e9fc4433c095f0de124f79c3774acee5\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:transition:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\c257f6ee824a8c9daed8b0c622eb46ec\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\c257f6ee824a8c9daed8b0c622eb46ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b107718f6881267fc7ed181c35b1b7a2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b107718f6881267fc7ed181c35b1b7a2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1291e8eed0c896c169b30de56410af92\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1291e8eed0c896c169b30de56410af92\AndroidManifest.xml:20:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ba7cf4185572374b710f84b1f59c7d30\AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ba7cf4185572374b710f84b1f59c7d30\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f8cc57d6b25f0766eb84b1261856f8f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f8cc57d6b25f0766eb84b1261856f8f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\aba6226c08672ff1161301a360596363\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\aba6226c08672ff1161301a360596363\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eb7ce6ae3a814fc56ea1b0a0a28b9854\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eb7ce6ae3a814fc56ea1b0a0a28b9854\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9993cc8dbce45d886ebfd621a174ed79\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9993cc8dbce45d886ebfd621a174ed79\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\515c704cf5a009fa3c1e27a2e5a62f5e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\515c704cf5a009fa3c1e27a2e5a62f5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8fd2d51d54f07b69f70eba09ea22dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8fd2d51d54f07b69f70eba09ea22dd3\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\63ea316e5771b621a8268222d272db87\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\63ea316e5771b621a8268222d272db87\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\430f79559492a3dfe4e61dd1bc694c40\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\430f79559492a3dfe4e61dd1bc694c40\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bc1d3931457450f7c505b3c9a14a8c40\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bc1d3931457450f7c505b3c9a14a8c40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eb7ce6ae3a814fc56ea1b0a0a28b9854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eb7ce6ae3a814fc56ea1b0a0a28b9854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\78016e1d101ffd72d715a5a95810ab44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\78016e1d101ffd72d715a5a95810ab44\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\67aba51035179e33c4f6b0a289c6c2b9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\67aba51035179e33c4f6b0a289c6c2b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f8cc57d6b25f0766eb84b1261856f8f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f8cc57d6b25f0766eb84b1261856f8f0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\94d4ba286890c2346c1030a3e4957f42\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\94d4ba286890c2346c1030a3e4957f42\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3ae64bb6ba84c0f4ab15c3c57d094ff9\AndroidManifest.xml:20:5-44
@@ -170,8 +164,6 @@ MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jjavi\.gradle\caches\tran
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d62d45b9bc86c9b10df53098f34e14d5\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
@@ -180,16 +172,6 @@ INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarte
 		INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\c257f6ee824a8c9daed8b0c622eb46ec\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\c257f6ee824a8c9daed8b0c622eb46ec\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\aba6226c08672ff1161301a360596363\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\aba6226c08672ff1161301a360596363\AndroidManifest.xml:23:9-25:38
-	android:value
-		ADDED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:design:26.1.0] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9044425d49cc3f45522cdd406a062d89\AndroidManifest.xml:27:13-51
 provider#com.squareup.picasso.PicassoProvider
 ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\jjavi\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\ba7cf4185572374b710f84b1f59c7d30\AndroidManifest.xml:8:9-11:40
 	android:authorities

@@ -2,11 +2,8 @@ package com.parse.starter.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
@@ -48,6 +45,9 @@ public class FeedUsuariosActivity extends AppCompatActivity {
             listViewFeeds.setAdapter(adapter);
 
             toolbar.setTitle(userName);
+            toolbar.setNavigationIcon(R.drawable.ic_keyboard_arrow_left);
+            toolbar.setTitleTextColor(R.color.cinzaEscuro);
+            setSupportActionBar(toolbar);
 
             loadUserFeeds(userName);
         }
@@ -62,7 +62,7 @@ public class FeedUsuariosActivity extends AppCompatActivity {
         query.findInBackground(new FindCallback<ParseObject>() {
             @Override
             public void done(List<ParseObject> objects, ParseException e) {
-                if(e != null)//sucesso!
+                if(e == null)//sucesso!
                 {
                     listFeeds.clear();
                     for (ParseObject user: objects){

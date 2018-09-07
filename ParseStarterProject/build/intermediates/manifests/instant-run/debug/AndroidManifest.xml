@@ -56,10 +56,6 @@
                 android:value="com.parse.starter.activity.MainActivity" />
         </activity>
 
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.1.0" />
-
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
             android:authorities="com.parse.starter.com.squareup.picasso"
