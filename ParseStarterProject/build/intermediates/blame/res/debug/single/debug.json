@@ -312,6 +312,10 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\eb7ce6ae3a814fc56ea1b0a0a28b9854\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_cam_launcher.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_cam_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_home.png.flat",
         "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
     },
@@ -554,6 +558,10 @@
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\d7289046a34c41c1dd6efefcfab2cb4f\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_cam_launcher.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_cam_launcher.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
@@ -816,6 +824,10 @@
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_cam_launcher.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_cam_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\eb7ce6ae3a814fc56ea1b0a0a28b9854\\res\\layout\\notification_template_lines_media.xml"
     },
@@ -982,6 +994,10 @@
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\jjavi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\308dbee9c802adbb301635c6731019af\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_cam_launcher.png.flat",
+        "source": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_cam_launcher.png"
     },
     {
         "merged": "C:\\Users\\jjavi\\Documents\\projects\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",

@@ -61,7 +61,7 @@ MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jjavi\.gradle\caches
 	android:label
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
 	android:icon
-		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:19:9-44
+		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:19:9-47
 	android:allowBackup
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
 	android:theme

@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Configurar toolbar
         toolbar_princ = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar_principal);
-        toolbar_princ.setLogo(R.drawable.instagramlogo);
+        //toolbar_princ.setLogo(R.drawable.instagramlogo);
         setSupportActionBar(toolbar_princ);
 
         //Configurar Tabs
