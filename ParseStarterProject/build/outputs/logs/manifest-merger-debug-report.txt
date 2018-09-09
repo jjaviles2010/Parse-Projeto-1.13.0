@@ -27,7 +27,7 @@ INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarte
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
 	package
-		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:10:5-36
 		INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
@@ -80,7 +80,7 @@ ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterPr
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
 	android:name
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
-activity#com.parse.starter.activity.LoginActivity
+activity#com.JLApps.photoshare.activity.LoginActivity
 ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:29:9-37:20
 	android:label
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
@@ -96,15 +96,15 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
 	android:name
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
-activity#com.parse.starter.activity.MainActivity
+activity#com.JLApps.photoshare.activity.MainActivity
 ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:38:9-59
 	android:name
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:38:19-56
-activity#com.parse.starter.activity.CadastroActivity
+activity#com.JLApps.photoshare.activity.CadastroActivity
 ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:39:9-63
 	android:name
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:39:19-60
-activity#com.parse.starter.activity.FeedUsuariosActivity
+activity#com.JLApps.photoshare.activity.FeedUsuariosActivity
 ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:40:9-48:20
 	android:parentActivityName
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:43:13-64
@@ -115,9 +115,9 @@ ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterPr
 	android:name
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:41:13-58
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:45:13-47:75
+ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:45:13-47:79
 	android:value
-		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:47:17-72
+		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:47:17-76
 	android:name
 		ADDED from C:\Users\jjavi\Documents\projects\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:46:17-63
 uses-sdk
